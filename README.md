@@ -1,4 +1,4 @@
 # portifolio
 Portifolio 
 
-link to take a look at it: 
+link for it: https://portifolio-hazel-two.vercel.app
